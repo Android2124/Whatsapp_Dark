@@ -2,18 +2,18 @@
 
 <img
   width="30%"
-  src="Screenshot_1"/>
+  src="Screenshot_1.png"/>
 <img
   width="30%"
-  src="Screenshot_4"/>
+  src="Screenshot_4.png"/>
 
 <img
   width="30%"
-  src="Screenshot_2"/>
+  src="Screenshot_2.png"/>
 <img
   width="30%"
-  src="Screenshot_5"/>
+  src="Screenshot_5.png"/>
 
 <img
   width="30%"
-  src="Screenshot_3"/>
+  src="Screenshot_3.png"/>
